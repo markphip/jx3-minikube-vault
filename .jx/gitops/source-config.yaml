@@ -1,0 +1,7 @@
+metadata:
+  creationTimestamp: null
+spec:
+  groups:
+  - owner: markphip
+    repositories:
+    - name: keycloak
